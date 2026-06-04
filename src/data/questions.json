@@ -1,0 +1,124 @@
+{
+	"questions": [
+		{
+			"id": 1,
+			"question": "What is the capital city of France?",
+			"options": {
+				"A": "Berlin",
+				"B": "Madrid",
+				"C": "Paris",
+				"D": "Rome"
+			},
+			"correct_answer": "C",
+			"explanation": "Paris is the capital and largest city of France."
+		},
+		{
+			"id": 2,
+			"question": "How many continents are there on Earth?",
+			"options": {
+				"A": "5",
+				"B": "6",
+				"C": "7",
+				"D": "8"
+			},
+			"correct_answer": "C",
+			"explanation": "Earth has 7 continents: Africa, Antarctica, Asia, Australia, Europe, North America, and South America."
+		},
+		{
+			"id": 3,
+			"question": "Which planet is known as the Red Planet?",
+			"options": {
+				"A": "Jupiter",
+				"B": "Saturn",
+				"C": "Venus",
+				"D": "Mars"
+			},
+			"correct_answer": "D",
+			"explanation": "Mars is called the Red Planet due to the reddish appearance caused by iron oxide on its surface."
+		},
+		{
+			"id": 4,
+			"question": "Who painted the Mona Lisa?",
+			"options": {
+				"A": "Vincent van Gogh",
+				"B": "Leonardo da Vinci",
+				"C": "Pablo Picasso",
+				"D": "Michelangelo"
+			},
+			"correct_answer": "B",
+			"explanation": "The Mona Lisa was painted by Leonardo da Vinci, likely between 1503 and 1519."
+		},
+		{
+			"id": 5,
+			"question": "What is the largest ocean on Earth?",
+			"options": {
+				"A": "Atlantic Ocean",
+				"B": "Indian Ocean",
+				"C": "Arctic Ocean",
+				"D": "Pacific Ocean"
+			},
+			"correct_answer": "D",
+			"explanation": "The Pacific Ocean is the largest and deepest ocean, covering more than 30% of Earth's surface."
+		},
+		{
+			"id": 6,
+			"question": "In which year did World War II end?",
+			"options": {
+				"A": "1943",
+				"B": "1944",
+				"C": "1945",
+				"D": "1946"
+			},
+			"correct_answer": "C",
+			"explanation": "World War II ended in 1945, with Germany surrendering in May and Japan in September."
+		},
+		{
+			"id": 7,
+			"question": "What is the chemical symbol for gold?",
+			"options": {
+				"A": "Go",
+				"B": "Gd",
+				"C": "Ag",
+				"D": "Au"
+			},
+			"correct_answer": "D",
+			"explanation": "Gold's chemical symbol is Au, derived from the Latin word 'Aurum'."
+		},
+		{
+			"id": 8,
+			"question": "Which country is the largest by land area?",
+			"options": {
+				"A": "China",
+				"B": "United States",
+				"C": "Russia",
+				"D": "Canada"
+			},
+			"correct_answer": "C",
+			"explanation": "Russia is the largest country in the world by land area, covering about 17.1 million square kilometers."
+		},
+		{
+			"id": 9,
+			"question": "How many sides does a hexagon have?",
+			"options": {
+				"A": "5",
+				"B": "6",
+				"C": "7",
+				"D": "8"
+			},
+			"correct_answer": "B",
+			"explanation": "A hexagon is a polygon with exactly 6 sides and 6 angles."
+		},
+		{
+			"id": 10,
+			"question": "Which element is essential for human breathing?",
+			"options": {
+				"A": "Hydrogen",
+				"B": "Carbon Dioxide",
+				"C": "Nitrogen",
+				"D": "Oxygen"
+			},
+			"correct_answer": "D",
+			"explanation": "Oxygen is the element humans need to breathe. It is used by cells to produce energy."
+		}
+	]
+}
