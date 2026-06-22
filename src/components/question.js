@@ -14,7 +14,7 @@ import { useNavigate } from "react-router-dom";
 import { useQuiz } from "../contexts/quizContext";
 
 export default function Questions() {
-	const { score, setScore , setWrongAnswers, time, setTime } = useQuiz();
+	const { score, setScore , time, setTime } = useQuiz();
 	// ======= STATES =========
 	const [quseNumber, setQuesNumber] = useState(data.questions[0].id);
 	const [currentques, setCurrentQues] = useState(data.questions[0].question);
