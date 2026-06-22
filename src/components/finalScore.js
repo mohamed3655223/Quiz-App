@@ -2,7 +2,7 @@ import { Typography , Button } from "@mui/material";
 import { useQuiz } from "../contexts/quizContext";
 import { useNavigate } from "react-router-dom";
 export default function FinalScore() {
-	const {score , wrongAnswers} = useQuiz();
+	const {score} = useQuiz();
 	const navigate = useNavigate();
 	return (
 		<div
